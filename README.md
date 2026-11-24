@@ -6,7 +6,7 @@ I work at the intersection of **accounting operations and practical software**. 
 
 Based in **Manama, Bahrain**, I work as a **Senior Accountant at Souq Waqif Management Company W.L.L** and pursue AI-assisted software development alongside my accounting career.
 
-[**Portfolio**](https://sayyidanshad.link) · [**LinkedIn**](https://www.linkedin.com/in/sayyid-anshad-40b04a68) · [**Contact**](https://sayyidanshad.link/contact)
+[**Portfolio**](https://sayedanshad.com) · [**LinkedIn**](https://www.linkedin.com/in/sayyid-anshad-40b04a68) · [**Contact**](https://sayedanshad.com/#contact)
 
 ---
 
@@ -29,13 +29,13 @@ My focus is on **accounting integrity, careful review of posting evidence, clear
 
 *This is a high-level case study. Proprietary source code, tenant information, financial records and production integrations are not published here.*
 
-**[Explore the portfolio case study](https://sayyidanshad.link)**
+**[Explore the portfolio case study](https://sayedanshad.com/#work)**
 
 ### Personal Portfolio
 
 A personal website presenting my accounting experience, interests in application development and selected visual case studies.
 
-**[Visit sayyidanshad.link](https://sayyidanshad.link)**
+**[Visit sayedanshad.com](https://sayedanshad.com)**
 
 ## How I approach building
 
@@ -49,6 +49,6 @@ A personal website presenting my accounting experience, interests in application
 
 ### Connect
 
-**[Website](https://sayyidanshad.link)** · **[LinkedIn](https://www.linkedin.com/in/sayyid-anshad-40b04a68)** · **[Contact form](https://sayyidanshad.link/contact)**
+**[Website](https://sayedanshad.com)** · **[LinkedIn](https://www.linkedin.com/in/sayyid-anshad-40b04a68)** · **[Contact form](https://sayedanshad.com/#contact)**
 
 <sub>Accounting experience meets practical software development.</sub>
